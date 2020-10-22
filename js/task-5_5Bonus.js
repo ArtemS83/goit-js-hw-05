@@ -75,7 +75,7 @@ class Model extends Car {
     return `${car.model} it's good!`;
   }
   constructor({ maxSpeed, price }, model) {
-    super({ maxSpeed, price }, model);
+    super({ maxSpeed, price });
     this.model = model;
   }
   eliminate() {
