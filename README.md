@@ -160,3 +160,7 @@ class Guest {
   }
 }
 ```
+
+//task-5_5Bonus
+
+Использование Наследия в классах (extends,... super())
